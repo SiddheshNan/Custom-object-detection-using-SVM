@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_50_41_Pro.jpg'>
+    <box top='334' left='734' width='257' height='106'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_50_48_Pro.jpg'>
+    <box top='313' left='704' width='244' height='126'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_50_53_Pro.jpg'>
+    <box top='309' left='715' width='217' height='126'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_51_15_Pro.jpg'>
+    <box top='398' left='703' width='244' height='143'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_51_18_Pro.jpg'>
+    <box top='415' left='696' width='209' height='144'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_51_21_Pro.jpg'>
+    <box top='406' left='635' width='284' height='202'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_51_24_Pro.jpg'>
+    <box top='358' left='617' width='261' height='232'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_51_30_Pro.jpg'>
+    <box top='390' left='643' width='222' height='154'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_51_36_Pro.jpg'>
+    <box top='417' left='675' width='251' height='151'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_51_43_Pro.jpg'>
+    <box top='387' left='679' width='239' height='190'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_51_45_Pro.jpg'>
+    <box top='314' left='642' width='223' height='123'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_51_49_Pro.jpg'>
+    <box top='355' left='626' width='239' height='113'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_51_55_Pro.jpg'>
+    <box top='348' left='584' width='248' height='103'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_52_02_Pro.jpg'>
+    <box top='298' left='650' width='213' height='126'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_52_04_Pro.jpg'>
+    <box top='326' left='678' width='175' height='99'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_52_08_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_52_17_Pro.jpg'>
+    <box top='415' left='681' width='208' height='139'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_52_19_Pro.jpg'>
+    <box top='326' left='649' width='214' height='164'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_52_21_Pro.jpg'>
+    <box top='324' left='665' width='260' height='164'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_52_25_Pro.jpg'>
+    <box top='334' left='686' width='191' height='97'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210520_14_52_29_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_11_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_17_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_20_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_22_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_24_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_25_Pro.jpg'>
+    <box top='384' left='710' width='193' height='98'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_27_Pro.jpg'>
+    <box top='355' left='580' width='222' height='97'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_33_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_37_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_41_Pro.jpg'>
+    <box top='330' left='773' width='196' height='169'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_44_Pro.jpg'>
+    <box top='423' left='738' width='243' height='157'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_47_Pro.jpg'>
+    <box top='405' left='670' width='258' height='177'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_50_Pro.jpg'>
+    <box top='435' left='432' width='288' height='176'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_53_Pro.jpg'>
+    <box top='438' left='125' width='316' height='178'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_10_57_Pro.jpg'>
+    <box top='382' left='638' width='229' height='264'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_01_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_02_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_05_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_08_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_09_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_10_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_15_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_17_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_19_Pro.jpg'>
+    <box top='329' left='624' width='233' height='120'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_23_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_28_Pro.jpg'>
+    <box top='376' left='641' width='247' height='155'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_30_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_41_Pro.jpg'>
+    <box top='373' left='622' width='206' height='150'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_44_Pro.jpg'>
+    <box top='372' left='568' width='224' height='163'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_46_Pro.jpg'>
+    <box top='392' left='541' width='258' height='172'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_11_58_Pro.jpg'>
+    <box top='349' left='560' width='283' height='180'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_00_Pro.jpg'>
+    <box top='314' left='691' width='247' height='212'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_05_Pro.jpg'>
+    <box top='412' left='679' width='229' height='166'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_08_Pro.jpg'>
+    <box top='377' left='658' width='241' height='194'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_15_Pro.jpg'>
+    <box top='413' left='633' width='264' height='207'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_18_Pro.jpg'>
+    <box top='405' left='581' width='226' height='149'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_21_Pro.jpg'>
+    <box top='344' left='583' width='222' height='164'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_25_Pro.jpg'>
+    <box top='390' left='561' width='233' height='201'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_28_Pro.jpg'>
+    <box top='439' left='491' width='271' height='169'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_31_Pro.jpg'>
+    <box top='366' left='511' width='247' height='164'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_38_Pro.jpg'>
+    <box top='294' left='346' width='240' height='112'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_41_Pro.jpg'>
+    <box top='265' left='335' width='219' height='113'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_44_Pro.jpg'>
+    <box top='308' left='346' width='254' height='169'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_48_Pro.jpg'>
+    <box top='282' left='385' width='217' height='197'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_51_Pro.jpg'>
+    <box top='282' left='445' width='226' height='186'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_54_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_12_58_Pro.jpg'>
+    <box top='392' left='385' width='298' height='179'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_00_Pro.jpg'>
+    <box top='213' left='608' width='266' height='157'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_03_Pro.jpg'>
+    <box top='159' left='653' width='279' height='211'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_05_Pro.jpg'>
+    <box top='206' left='628' width='286' height='267'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_08_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_13_Pro.jpg'>
+    <box top='355' left='725' width='228' height='151'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_16_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_18_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_20_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_22_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_24_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_26_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_29_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_32_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_35_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_38_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_40_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_42_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_46_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_49_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_52_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_55_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_13_58_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_01_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_04_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_07_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_10_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_13_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_17_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_20_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_23_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_24_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_25_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_27_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_30_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_33_Pro.jpg'>
+    <box top='423' left='10' width='331' height='227'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_36_Pro.jpg'>
+    <box top='278' left='252' width='300' height='194'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_37_Pro.jpg'>
+    <box top='311' left='363' width='310' height='204'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_41_Pro.jpg'>
+    <box top='349' left='613' width='330' height='202'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_45_Pro.jpg'>
+    <box top='271' left='860' width='331' height='196'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_48_Pro.jpg'>
+    <box top='122' left='779' width='320' height='189'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_51_Pro.jpg'>
+    <box top='108' left='425' width='291' height='195'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_54_Pro.jpg'>
+    <box top='75' left='74' width='341' height='189'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_14_57_Pro.jpg'>
+    <box top='202' left='148' width='274' height='125'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_15_01_Pro.jpg'>
+    <box top='244' left='194' width='259' height='204'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_15_07_Pro.jpg'>
+    <box top='182' left='444' width='240' height='197'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_15_10_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/mouse/WIN_20210521_18_15_13_Pro.jpg'>
+    <box top='156' left='862' width='236' height='139'/>
+  </image>
+</images>
+</dataset>

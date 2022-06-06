@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='datasets/bottle_new/WIN_20210628_14_44_29_Pro.jpg'>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_44_32_Pro.jpg'>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_44_36_Pro.jpg'>
+    <box top='58' left='400' width='189' height='645'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_44_38_Pro.jpg'>
+    <box top='56' left='482' width='183' height='651'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_44_41_Pro.jpg'>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_44_43_Pro.jpg'>
+    <box top='14' left='496' width='181' height='689'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_44_46_Pro.jpg'>
+    <box top='18' left='530' width='197' height='693'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_44_47_Pro.jpg'>
+    <box top='62' left='690' width='183' height='641'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_44_50_Pro.jpg'>
+    <box top='104' left='836' width='175' height='629'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_44_53_Pro.jpg'>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_44_59_Pro.jpg'>
+    <box top='134' left='626' width='171' height='507'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_01_Pro.jpg'>
+    <box top='138' left='638' width='151' height='529'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_03_Pro.jpg'>
+    <box top='124' left='512' width='151' height='545'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_06_Pro.jpg'>
+    <box top='150' left='436' width='161' height='553'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_08_Pro.jpg'>
+    <box top='150' left='396' width='143' height='567'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_09_Pro.jpg'>
+    <box top='86' left='284' width='185' height='551'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_11_Pro.jpg'>
+    <box top='84' left='258' width='185' height='553'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_12_Pro.jpg'>
+    <box top='72' left='476' width='169' height='589'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_14_Pro.jpg'>
+    <box top='52' left='486' width='171' height='625'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_15_Pro.jpg'>
+    <box top='76' left='406' width='177' height='595'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_17_Pro.jpg'>
+    <box top='64' left='436' width='185' height='633'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_19_Pro.jpg'>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_21_Pro.jpg'>
+    <box top='60' left='706' width='165' height='637'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_22_Pro.jpg'>
+    <box top='28' left='786' width='175' height='621'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_24_Pro.jpg'>
+    <box top='24' left='846' width='195' height='633'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_26_Pro.jpg'>
+    <box top='10' left='930' width='221' height='701'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_28_Pro.jpg'>
+    <box top='70' left='814' width='187' height='601'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_30_Pro.jpg'>
+    <box top='90' left='720' width='175' height='629'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_32_Pro.jpg'>
+    <box top='68' left='670' width='161' height='597'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_33_Pro.jpg'>
+    <box top='112' left='612' width='159' height='539'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_35_Pro.jpg'>
+    <box top='118' left='540' width='161' height='517'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_36_Pro.jpg'>
+    <box top='132' left='454' width='157' height='511'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_37_Pro.jpg'>
+    <box top='96' left='332' width='143' height='515'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_39_Pro.jpg'>
+    <box top='82' left='200' width='179' height='555'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_41_Pro.jpg'>
+    <box top='80' left='160' width='165' height='549'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_42_Pro.jpg'>
+    <box top='62' left='416' width='181' height='591'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_46_Pro.jpg'>
+    <box top='32' left='776' width='177' height='605'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_48_Pro.jpg'>
+    <box top='34' left='900' width='173' height='567'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_50_Pro.jpg'>
+    <box top='60' left='982' width='207' height='561'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_53_Pro.jpg'>
+    <box top='110' left='572' width='149' height='573'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_55_Pro.jpg'>
+    <box top='106' left='584' width='183' height='553'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_57_Pro.jpg'>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_45_58_Pro.jpg'>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_03_Pro.jpg'>
+    <box top='198' left='496' width='99' height='307'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_05_Pro.jpg'>
+    <box top='208' left='546' width='109' height='315'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_07_Pro.jpg'>
+    <box top='208' left='426' width='95' height='295'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_10_Pro.jpg'>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_12_Pro.jpg'>
+    <box top='210' left='304' width='89' height='293'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_14_Pro.jpg'>
+    <box top='156' left='282' width='93' height='289'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_16_Pro.jpg'>
+    <box top='94' left='302' width='105' height='311'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_18_Pro.jpg'>
+    <box top='60' left='338' width='107' height='343'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_19_Pro.jpg'>
+    <box top='28' left='426' width='135' height='417'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_21_Pro.jpg'>
+    <box top='32' left='598' width='123' height='393'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_26_Pro.jpg'>
+    <box top='30' left='822' width='137' height='417'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_28_Pro.jpg'>
+    <box top='60' left='916' width='155' height='383'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_30_Pro.jpg'>
+    <box top='78' left='972' width='109' height='329'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_32_Pro.jpg'>
+    <box top='76' left='958' width='125' height='345'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_34_Pro.jpg'>
+    <box top='52' left='870' width='137' height='397'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_36_Pro.jpg'>
+    <box top='58' left='798' width='139' height='395'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_39_Pro.jpg'>
+    <box top='112' left='622' width='141' height='407'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_41_Pro.jpg'>
+    <box top='134' left='488' width='113' height='361'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_43_Pro.jpg'>
+    <box top='172' left='480' width='117' height='289'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_44_Pro.jpg'>
+    <box top='186' left='454' width='105' height='277'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_46_Pro.jpg'>
+    <box top='172' left='388' width='99' height='279'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_49_Pro.jpg'>
+    <box top='156' left='336' width='111' height='283'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_46_50_Pro.jpg'>
+    <box top='142' left='340' width='103' height='285'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_48_11_Pro.jpg'>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_48_13_Pro.jpg'>
+    <box top='118' left='374' width='101' height='323'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_48_15_Pro.jpg'>
+    <box top='98' left='376' width='95' height='295'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_48_17_Pro.jpg'>
+    <box top='112' left='304' width='103' height='299'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_48_19_Pro.jpg'>
+    <box top='56' left='378' width='129' height='369'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_48_21_Pro.jpg'>
+    <box top='22' left='440' width='171' height='429'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_48_23_Pro.jpg'>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_48_25_Pro.jpg'>
+    <box top='40' left='936' width='163' height='517'/>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_48_27_Pro.jpg'>
+  </image>
+  <image file='datasets/bottle_new/WIN_20210628_14_48_30_Pro.jpg'>
+    <box top='30' left='776' width='167' height='549'/>
+  </image>
+</images>
+</dataset>

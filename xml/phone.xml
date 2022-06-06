@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_00_10_Pro.jpg'>
+    <box top='221' left='535' width='202' height='410'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_00_15_Pro.jpg'>
+    <box top='205' left='377' width='201' height='409'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_00_19_Pro.jpg'>
+    <box top='189' left='325' width='204' height='406'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_00_49_Pro.jpg'>
+    <box top='199' left='917' width='196' height='411'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_00_52_Pro.jpg'>
+    <box top='60' left='932' width='204' height='400'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_00_54_Pro.jpg'>
+    <box top='16' left='782' width='218' height='456'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_00_55_Pro.jpg'>
+    <box top='16' left='539' width='216' height='485'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_00_57_Pro.jpg'>
+    <box top='95' left='412' width='261' height='494'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_00_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_03_Pro.jpg'>
+    <box top='203' left='565' width='221' height='479'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_05_Pro.jpg'>
+    <box top='245' left='753' width='212' height='456'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_07_Pro.jpg'>
+    <box top='268' left='1005' width='208' height='435'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_10_Pro.jpg'>
+    <box top='203' left='995' width='217' height='423'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_12_Pro.jpg'>
+    <box top='312' left='772' width='201' height='395'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_15_Pro.jpg'>
+    <box top='91' left='949' width='185' height='382'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_18_Pro.jpg'>
+    <box top='43' left='1024' width='216' height='405'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_20_Pro.jpg'>
+    <box top='134' left='789' width='177' height='356'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_22_Pro.jpg'>
+    <box top='313' left='738' width='177' height='380'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_25_Pro.jpg'>
+    <box top='292' left='534' width='181' height='388'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_27_Pro.jpg'>
+    <box top='285' left='316' width='181' height='402'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_29_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_34_Pro.jpg'>
+    <box top='112' left='83' width='208' height='449'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_37_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_38_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_43_Pro.jpg'>
+    <box top='150' left='907' width='219' height='433'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_45_Pro.jpg'>
+    <box top='263' left='924' width='234' height='453'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_47_Pro.jpg'>
+    <box top='272' left='705' width='218' height='439'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_50_Pro.jpg'>
+    <box top='261' left='578' width='233' height='454'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_52_Pro.jpg'>
+    <box top='182' left='256' width='199' height='454'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_01_57_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_01_Pro.jpg'>
+    <box top='144' left='711' width='192' height='392'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_03_Pro.jpg'>
+    <box top='136' left='768' width='191' height='389'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_04_Pro.jpg'>
+    <box top='188' left='699' width='200' height='403'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_06_Pro.jpg'>
+    <box top='285' left='620' width='198' height='410'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_07_Pro.jpg'>
+    <box top='107' left='414' width='225' height='495'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_08_Pro.jpg'>
+    <box top='18' left='306' width='229' height='524'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_10_Pro (2).jpg'>
+    <box top='89' left='794' width='169' height='357'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_10_Pro.jpg'>
+    <box top='55' left='584' width='200' height='434'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_12_Pro.jpg'>
+    <box top='139' left='888' width='165' height='335'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_13_Pro.jpg'>
+    <box top='307' left='896' width='172' height='349'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_15_Pro.jpg'>
+    <box top='362' left='725' width='171' height='354'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_16_Pro.jpg'>
+    <box top='304' left='457' width='184' height='386'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_18_Pro.jpg'>
+    <box top='312' left='316' width='200' height='410'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_19_Pro.jpg'>
+    <box top='140' left='737' width='174' height='358'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_22_Pro.jpg'>
+    <box top='78' left='682' width='196' height='439'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_24_Pro.jpg'>
+    <box top='133' left='349' width='250' height='576'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_26_Pro.jpg'>
+    <box top='81' left='535' width='276' height='596'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_27_Pro.jpg'>
+    <box top='122' left='699' width='233' height='518'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_28_Pro.jpg'>
+    <box top='139' left='878' width='218' height='471'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_30_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_32_Pro.jpg'>
+    <box top='309' left='743' width='182' height='373'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_38_Pro.jpg'>
+    <box top='233' left='552' width='191' height='444'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_40_Pro.jpg'>
+    <box top='84' left='569' width='188' height='424'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_43_Pro.jpg'>
+    <box top='124' left='353' width='190' height='456'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_44_Pro.jpg'>
+    <box top='220' left='369' width='182' height='467'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_46_Pro.jpg'>
+    <box top='250' left='686' width='181' height='373'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_48_Pro.jpg'>
+    <box top='199' left='754' width='210' height='371'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_52_Pro.jpg'>
+    <box top='233' left='911' width='184' height='328'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_55_Pro.jpg'>
+    <box top='229' left='795' width='217' height='410'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_56_Pro.jpg'>
+    <box top='241' left='614' width='218' height='432'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_02_58_Pro.jpg'>
+    <box top='207' left='443' width='193' height='476'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_01_Pro.jpg'>
+    <box top='175' left='298' width='187' height='528'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_06_Pro.jpg'>
+    <box top='96' left='474' width='244' height='532'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_07_Pro.jpg'>
+    <box top='15' left='773' width='240' height='462'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_11_Pro.jpg'>
+    <box top='152' left='927' width='196' height='373'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_23_Pro.jpg'>
+    <box top='166' left='530' width='169' height='358'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_25_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_27_Pro.jpg'>
+    <box top='203' left='392' width='172' height='344'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_29_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_31_Pro.jpg'>
+    <box top='258' left='403' width='174' height='360'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_33_Pro.jpg'>
+    <box top='250' left='414' width='167' height='314'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_35_Pro.jpg'>
+    <box top='235' left='620' width='153' height='320'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_37_Pro.jpg'>
+    <box top='210' left='741' width='157' height='313'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_38_Pro.jpg'>
+    <box top='181' left='816' width='158' height='314'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_40_Pro.jpg'>
+    <box top='176' left='700' width='144' height='341'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_43_Pro.jpg'>
+    <box top='240' left='563' width='169' height='371'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_45_Pro.jpg'>
+    <box top='228' left='360' width='196' height='426'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_48_Pro.jpg'>
+    <box top='208' left='300' width='203' height='443'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_50_Pro.jpg'>
+    <box top='101' left='411' width='204' height='425'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_52_Pro.jpg'>
+    <box top='92' left='631' width='179' height='379'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_53_Pro.jpg'>
+    <box top='90' left='705' width='158' height='323'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_03_59_Pro.jpg'>
+    <box top='226' left='840' width='177' height='363'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_01_Pro.jpg'>
+    <box top='146' left='893' width='196' height='359'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_03_Pro.jpg'>
+    <box top='182' left='748' width='194' height='404'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_06_Pro.jpg'>
+    <box top='139' left='456' width='194' height='426'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_08_Pro.jpg'>
+    <box top='159' left='416' width='182' height='412'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_12_Pro.jpg'>
+    <box top='168' left='494' width='184' height='394'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_18_Pro.jpg'>
+    <box top='210' left='469' width='167' height='353'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_22_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_28_Pro.jpg'>
+    <box top='184' left='681' width='184' height='418'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_30_Pro.jpg'>
+    <box top='148' left='806' width='163' height='360'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_33_Pro.jpg'>
+    <box top='199' left='647' width='166' height='389'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_36_Pro.jpg'>
+    <box top='224' left='466' width='182' height='424'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_40_Pro.jpg'>
+    <box top='208' left='355' width='209' height='447'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_41_Pro.jpg'>
+    <box top='82' left='648' width='182' height='421'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_43_Pro.jpg'>
+    <box top='58' left='775' width='165' height='341'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_46_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_51_Pro.jpg'>
+    <box top='347' left='941' width='168' height='321'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_54_Pro.jpg'>
+    <box top='348' left='569' width='179' height='352'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_04_57_Pro.jpg'>
+    <box top='276' left='704' width='191' height='396'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_05_00_Pro.jpg'>
+    <box top='322' left='755' width='180' height='391'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_05_03_Pro.jpg'>
+    <box top='274' left='905' width='210' height='398'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_05_07_Pro.jpg'>
+    <box top='277' left='718' width='199' height='405'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_05_10_Pro.jpg'>
+    <box top='248' left='681' width='178' height='391'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_05_12_Pro.jpg'>
+    <box top='236' left='626' width='179' height='402'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_05_15_Pro.jpg'>
+    <box top='113' left='375' width='184' height='419'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_05_16_Pro.jpg'>
+    <box top='265' left='542' width='180' height='413'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_05_18_Pro.jpg'>
+    <box top='124' left='846' width='163' height='361'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_05_20_Pro.jpg'>
+    <box top='323' left='852' width='203' height='367'/>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_05_21_Pro.jpg'>
+  </image>
+  <image file='/home/siddhesh/Desktop/custom-object-detection-svm/datasets/phone/WIN_20210521_19_05_23_Pro.jpg'>
+  </image>
+</images>
+</dataset>
